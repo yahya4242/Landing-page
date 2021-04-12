@@ -12,3 +12,5 @@
 4-added the scroll to top Arrow button to appear at the bottom of the window where the user can click to scroll to the top of the page
 5-hid the nav bar and the scroll to top button when the user isn't scrolling
 6-made the page responsive to appear properly on different screens
+
+## Preview:  https://yahya4242.github.io/Landing-page-udacity.github.io/
